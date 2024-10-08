@@ -1,3 +1,4 @@
+---
 # Лабораторная работа: Распознавание рукописных цифр с использованием нейронной сети
 
 ## Условие задания
@@ -20,6 +21,7 @@
 - Документируйте каждый шаг в виде комментариев в коде.
 - Подготовьте отчет, включающий описание выполненных шагов, результаты и выводы
 
+---
 # Laboratory Work: Handwritten Digit Recognition using a Neural Network
 
 ## Task Description
@@ -36,4 +38,4 @@
 - Use libraries such as TensorFlow or PyTorch to create and train the neural network.
 - Visualize a few examples of images from the MNIST dataset.
 - Evaluate the model's accuracy on the test dataset.
-
+---
