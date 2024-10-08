@@ -19,3 +19,19 @@
 
 - Документируйте каждый шаг в виде комментариев в коде.
 - Подготовьте отчет, включающий описание выполненных шагов, результаты и выводы
+
+## Task Description
+
+1. Import all necessary tools and load the MNIST dataset.
+2. Determine the shape of the data array and display the data as an image.
+3. Transform the data for the neural network model by converting the 28x28 pixel image into a sequence of 784 numbers.
+4. Do not overlook the class labels. To improve the network's classification, convert the labels to one-hot encoding format.
+5. Create a neural network according to the studied scheme and proceed with its training.
+6. Finally, test how the trained neural network recognizes individual images of handwritten digits from a set on which the network was not trained.
+
+## Notes
+
+- Use libraries such as TensorFlow or PyTorch to create and train the neural network.
+- Visualize a few examples of images from the MNIST dataset.
+- Evaluate the model's accuracy on the test dataset.
+
