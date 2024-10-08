@@ -38,4 +38,9 @@
 - Use libraries such as TensorFlow or PyTorch to create and train the neural network.
 - Visualize a few examples of images from the MNIST dataset.
 - Evaluate the model's accuracy on the test dataset.
+
+## Additional Requirements
+
+- Document each step in the form of comments in the code.
+- Prepare a report including a description of the steps taken, results, and conclusions.
 ---
