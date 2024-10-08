@@ -20,6 +20,8 @@
 - Документируйте каждый шаг в виде комментариев в коде.
 - Подготовьте отчет, включающий описание выполненных шагов, результаты и выводы
 
+# Laboratory Work: Handwritten Digit Recognition using a Neural Network
+
 ## Task Description
 
 1. Import all necessary tools and load the MNIST dataset.
